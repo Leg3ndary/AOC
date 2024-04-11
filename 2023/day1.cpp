@@ -11,6 +11,7 @@ int main() {
 
     int total = 0;
 
+
     char line[];
 
     while (cin >> line) {
